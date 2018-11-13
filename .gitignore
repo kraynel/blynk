@@ -1,0 +1,5 @@
+node_modules
+RTIMULib.ini
+ecosystem.config.js
+*.swp
+
